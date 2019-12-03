@@ -2,6 +2,7 @@
 
 namespace Paraguay\Regions;
 
+use Illuminate\Support\ServiceProvider;
 
 class RegionsServiceProvider extends ServiceProvider
 {
@@ -22,5 +23,13 @@ class RegionsServiceProvider extends ServiceProvider
 		$this->publishes([
 			__DIR__ . '/../database/migrations' => database_path('migrations')
 		], 'regions-migrations');
+
+		$this->publishes([
+			__DIR__ . '/../database/seeds' => database_path('seeds')
+		], 'regions-seeds');
+
+		$this->publishes([
+			__DIR__ . '/../database/data' => database_path('data')
+		], 'regions-data');
 	}
 }

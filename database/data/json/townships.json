@@ -1,0 +1,1297 @@
+[
+  {
+    "id": 1,
+    "department_id": 1,
+    "name": "Asunción"
+  },
+  {
+    "id": 2,
+    "department_id": 17,
+    "name": "Bahía Negra"
+  },
+  {
+    "id": 3,
+    "department_id": 17,
+    "name": "Carmelo Peralta"
+  },
+  {
+    "id": 4,
+    "department_id": 17,
+    "name": "Puerto Casado"
+  },
+  {
+    "id": 5,
+    "department_id": 17,
+    "name": "Fuerte Olimpo"
+  },
+  {
+    "id": 6,
+    "department_id": 11,
+    "name": "Ciudad del Este"
+  },
+  {
+    "id": 7,
+    "department_id": 11,
+    "name": "Doctor Juan León Mallorquín"
+  },
+  {
+    "id": 8,
+    "department_id": 11,
+    "name": "Doctor Raúl Peña"
+  },
+  {
+    "id": 9,
+    "department_id": 11,
+    "name": "Domingo Martínez de Irala"
+  },
+  {
+    "id": 10,
+    "department_id": 11,
+    "name": "Hernandarias"
+  },
+  {
+    "id": 11,
+    "department_id": 11,
+    "name": "Iruña"
+  },
+  {
+    "id": 12,
+    "department_id": 11,
+    "name": "Itakyry"
+  },
+  {
+    "id": 13,
+    "department_id": 11,
+    "name": "Juan E. O´Leary"
+  },
+  {
+    "id": 14,
+    "department_id": 11,
+    "name": "Los Cedrales"
+  },
+  {
+    "id": 15,
+    "department_id": 11,
+    "name": "Mbaracayú"
+  },
+  {
+    "id": 16,
+    "department_id": 11,
+    "name": "Minga Guazú"
+  },
+  {
+    "id": 17,
+    "department_id": 11,
+    "name": "Minga Porá"
+  },
+  {
+    "id": 18,
+    "department_id": 11,
+    "name": "Naranjal"
+  },
+  {
+    "id": 19,
+    "department_id": 11,
+    "name": "Ñacunday"
+  },
+  {
+    "id": 20,
+    "department_id": 11,
+    "name": "Presidente Franco"
+  },
+  {
+    "id": 21,
+    "department_id": 11,
+    "name": "San Alberto"
+  },
+  {
+    "id": 22,
+    "department_id": 11,
+    "name": "San Cristóbal"
+  },
+  {
+    "id": 23,
+    "department_id": 11,
+    "name": "Santa Fe del Paraná"
+  },
+  {
+    "id": 24,
+    "department_id": 11,
+    "name": "Santa Rita"
+  },
+  {
+    "id": 25,
+    "department_id": 11,
+    "name": "Santa Rosa del Monday"
+  },
+  {
+    "id": 26,
+    "department_id": 11,
+    "name": "Tavapy"
+  },
+  {
+    "id": 27,
+    "department_id": 11,
+    "name": "Colonia Yguazú"
+  },
+  {
+    "id": 28,
+    "department_id": 13,
+    "name": "Bella Vista Norte"
+  },
+  {
+    "id": 29,
+    "department_id": 13,
+    "name": "Capitán Bado"
+  },
+  {
+    "id": 30,
+    "department_id": 13,
+    "name": "Pedro Juan Caballero"
+  },
+  {
+    "id": 31,
+    "department_id": 13,
+    "name": "Zanja Pytá"
+  },
+  {
+    "id": 32,
+    "department_id": 13,
+    "name": "Karapaí"
+  },
+  {
+    "id": 33,
+    "department_id": 16,
+    "name": "Filadelfia"
+  },
+  {
+    "id": 34,
+    "department_id": 16,
+    "name": "Loma Plata"
+  },
+  {
+    "id": 35,
+    "department_id": 16,
+    "name": "Mcal. Estigarribia"
+  },
+  {
+    "id": 36,
+    "department_id": 6,
+    "name": "Caaguazú"
+  },
+  {
+    "id": 37,
+    "department_id": 6,
+    "name": "Carayaó"
+  },
+  {
+    "id": 38,
+    "department_id": 6,
+    "name": "Cnel. Oviedo"
+  },
+  {
+    "id": 39,
+    "department_id": 6,
+    "name": "Doctor Cecilio Báez"
+  },
+  {
+    "id": 40,
+    "department_id": 6,
+    "name": "J.E. Estigarribia"
+  },
+  {
+    "id": 41,
+    "department_id": 6,
+    "name": "Campo 9"
+  },
+  {
+    "id": 42,
+    "department_id": 6,
+    "name": "Doctor Juan Manuel Frutos"
+  },
+  {
+    "id": 43,
+    "department_id": 6,
+    "name": "José Domingo Ocampos"
+  },
+  {
+    "id": 44,
+    "department_id": 6,
+    "name": "La Pastora"
+  },
+  {
+    "id": 45,
+    "department_id": 6,
+    "name": "Mcal. Francisco S. López"
+  },
+  {
+    "id": 46,
+    "department_id": 6,
+    "name": "Nueva Londres"
+  },
+  {
+    "id": 47,
+    "department_id": 6,
+    "name": "Nueva Toledo"
+  },
+  {
+    "id": 48,
+    "department_id": 6,
+    "name": "Raúl Arsenio Oviedo"
+  },
+  {
+    "id": 49,
+    "department_id": 6,
+    "name": "Repatriación"
+  },
+  {
+    "id": 50,
+    "department_id": 6,
+    "name": "R. I. Tres Corrales"
+  },
+  {
+    "id": 51,
+    "department_id": 6,
+    "name": "San Joaquín"
+  },
+  {
+    "id": 52,
+    "department_id": 6,
+    "name": "San José de los Arroyos"
+  },
+  {
+    "id": 53,
+    "department_id": 6,
+    "name": "Mbutuy"
+  },
+  {
+    "id": 54,
+    "department_id": 6,
+    "name": "Simón Bolívar"
+  },
+  {
+    "id": 55,
+    "department_id": 6,
+    "name": "Tembiaporá"
+  },
+  {
+    "id": 56,
+    "department_id": 6,
+    "name": "Tres de Febrero"
+  },
+  {
+    "id": 57,
+    "department_id": 6,
+    "name": "Vaquería"
+  },
+  {
+    "id": 58,
+    "department_id": 6,
+    "name": "Yhú"
+  },
+  {
+    "id": 59,
+    "department_id": 7,
+    "name": "3 de Mayo"
+  },
+  {
+    "id": 60,
+    "department_id": 7,
+    "name": "Abaí"
+  },
+  {
+    "id": 61,
+    "department_id": 7,
+    "name": "Buena Vista"
+  },
+  {
+    "id": 62,
+    "department_id": 7,
+    "name": "Caazapá"
+  },
+  {
+    "id": 63,
+    "department_id": 7,
+    "name": "Doctor Moisés S. Bertoni"
+  },
+  {
+    "id": 64,
+    "department_id": 7,
+    "name": "Fulgencio Yegros"
+  },
+  {
+    "id": 65,
+    "department_id": 7,
+    "name": "General Higinio Morínigo"
+  },
+  {
+    "id": 66,
+    "department_id": 7,
+    "name": "Maciel"
+  },
+  {
+    "id": 67,
+    "department_id": 7,
+    "name": "San Juan Nepomuceno"
+  },
+  {
+    "id": 68,
+    "department_id": 7,
+    "name": "Tavaí"
+  },
+  {
+    "id": 69,
+    "department_id": 7,
+    "name": "Yuty"
+  },
+  {
+    "id": 70,
+    "department_id": 14,
+    "name": "Colonia Anahí"
+  },
+  {
+    "id": 71,
+    "department_id": 14,
+    "name": "Corpus Christi"
+  },
+  {
+    "id": 72,
+    "department_id": 14,
+    "name": "Curuguaty"
+  },
+  {
+    "id": 73,
+    "department_id": 14,
+    "name": "Gral. Francisco Caballero Álvarez"
+  },
+  {
+    "id": 74,
+    "department_id": 14,
+    "name": "Itanará"
+  },
+  {
+    "id": 75,
+    "department_id": 14,
+    "name": "Katueté"
+  },
+  {
+    "id": 76,
+    "department_id": 14,
+    "name": "La Paloma"
+  },
+  {
+    "id": 77,
+    "department_id": 14,
+    "name": "Maracaná"
+  },
+  {
+    "id": 78,
+    "department_id": 14,
+    "name": "Nueva Esperanza"
+  },
+  {
+    "id": 79,
+    "department_id": 14,
+    "name": "Salto del Guairá"
+  },
+  {
+    "id": 80,
+    "department_id": 14,
+    "name": "Villa Ygatimí"
+  },
+  {
+    "id": 81,
+    "department_id": 14,
+    "name": "Yasy Cañy"
+  },
+  {
+    "id": 82,
+    "department_id": 14,
+    "name": "Ybyrarovaná"
+  },
+  {
+    "id": 83,
+    "department_id": 14,
+    "name": "Ypejhú"
+  },
+  {
+    "id": 84,
+    "department_id": 14,
+    "name": "Yby Pytá"
+  },
+  {
+    "id": 85,
+    "department_id": 1,
+    "name": "Areguá"
+  },
+  {
+    "id": 86,
+    "department_id": 1,
+    "name": "Capiatá"
+  },
+  {
+    "id": 87,
+    "department_id": 1,
+    "name": "Fernando de la Mora"
+  },
+  {
+    "id": 88,
+    "department_id": 1,
+    "name": "Guarambaré"
+  },
+  {
+    "id": 89,
+    "department_id": 1,
+    "name": "Itá"
+  },
+  {
+    "id": 90,
+    "department_id": 1,
+    "name": "Itauguá"
+  },
+  {
+    "id": 91,
+    "department_id": 1,
+    "name": "J. Augusto Saldivar"
+  },
+  {
+    "id": 92,
+    "department_id": 1,
+    "name": "Lambaré"
+  },
+  {
+    "id": 93,
+    "department_id": 1,
+    "name": "Limpio"
+  },
+  {
+    "id": 94,
+    "department_id": 1,
+    "name": "Luque"
+  },
+  {
+    "id": 95,
+    "department_id": 1,
+    "name": "Mariano Roque Alonso"
+  },
+  {
+    "id": 96,
+    "department_id": 1,
+    "name": "Ñemby"
+  },
+  {
+    "id": 97,
+    "department_id": 1,
+    "name": "Nueva Italia"
+  },
+  {
+    "id": 98,
+    "department_id": 1,
+    "name": "San Antonio"
+  },
+  {
+    "id": 99,
+    "department_id": 1,
+    "name": "San Lorenzo"
+  },
+  {
+    "id": 100,
+    "department_id": 1,
+    "name": "Villa Elisa"
+  },
+  {
+    "id": 101,
+    "department_id": 1,
+    "name": "Villeta"
+  },
+  {
+    "id": 102,
+    "department_id": 1,
+    "name": "Ypacaraí"
+  },
+  {
+    "id": 103,
+    "department_id": 1,
+    "name": "Ypané"
+  },
+  {
+    "id": 104,
+    "department_id": 2,
+    "name": "Arroyito"
+  },
+  {
+    "id": 105,
+    "department_id": 2,
+    "name": "Azotey"
+  },
+  {
+    "id": 106,
+    "department_id": 2,
+    "name": "Belén"
+  },
+  {
+    "id": 107,
+    "department_id": 2,
+    "name": "Concepción"
+  },
+  {
+    "id": 108,
+    "department_id": 2,
+    "name": "Horqueta"
+  },
+  {
+    "id": 109,
+    "department_id": 2,
+    "name": "Loreto"
+  },
+  {
+    "id": 110,
+    "department_id": 2,
+    "name": "San Carlos del Apa"
+  },
+  {
+    "id": 111,
+    "department_id": 2,
+    "name": "San Lázaro"
+  },
+  {
+    "id": 112,
+    "department_id": 2,
+    "name": "Yby Yaú"
+  },
+  {
+    "id": 113,
+    "department_id": 2,
+    "name": "Sargento José Félix López"
+  },
+  {
+    "id": 114,
+    "department_id": 2,
+    "name": "San Alfredo"
+  },
+  {
+    "id": 115,
+    "department_id": 2,
+    "name": "Paso Barreto"
+  },
+  {
+    "id": 116,
+    "department_id": 4,
+    "name": "Altos"
+  },
+  {
+    "id": 117,
+    "department_id": 4,
+    "name": "Arroyos y Esteros"
+  },
+  {
+    "id": 118,
+    "department_id": 4,
+    "name": "Atyrá"
+  },
+  {
+    "id": 119,
+    "department_id": 4,
+    "name": "Caacupé"
+  },
+  {
+    "id": 120,
+    "department_id": 4,
+    "name": "Caraguatay"
+  },
+  {
+    "id": 121,
+    "department_id": 4,
+    "name": "Emboscada"
+  },
+  {
+    "id": 122,
+    "department_id": 4,
+    "name": "Eusebio Ayala"
+  },
+  {
+    "id": 123,
+    "department_id": 4,
+    "name": "Isla Pucú"
+  },
+  {
+    "id": 124,
+    "department_id": 4,
+    "name": "Itacurubí"
+  },
+  {
+    "id": 125,
+    "department_id": 4,
+    "name": "Juan de Mena"
+  },
+  {
+    "id": 126,
+    "department_id": 4,
+    "name": "Loma Grande"
+  },
+  {
+    "id": 127,
+    "department_id": 4,
+    "name": "Mbocayaty del Yhaguy"
+  },
+  {
+    "id": 128,
+    "department_id": 4,
+    "name": "Nueva Colombia"
+  },
+  {
+    "id": 129,
+    "department_id": 4,
+    "name": "Piribebuy"
+  },
+  {
+    "id": 130,
+    "department_id": 4,
+    "name": "Primero de Marzo"
+  },
+  {
+    "id": 131,
+    "department_id": 4,
+    "name": "San Bernardino"
+  },
+  {
+    "id": 132,
+    "department_id": 4,
+    "name": "San José Obrero"
+  },
+  {
+    "id": 133,
+    "department_id": 4,
+    "name": "Santa Elena"
+  },
+  {
+    "id": 134,
+    "department_id": 4,
+    "name": "Tobatí"
+  },
+  {
+    "id": 135,
+    "department_id": 4,
+    "name": "Valenzuela"
+  },
+  {
+    "id": 136,
+    "department_id": 5,
+    "name": "Borja"
+  },
+  {
+    "id": 137,
+    "department_id": 5,
+    "name": "Colonia Independencia"
+  },
+  {
+    "id": 138,
+    "department_id": 5,
+    "name": "Coronel Martínez"
+  },
+  {
+    "id": 139,
+    "department_id": 5,
+    "name": "Dr. Bottrell"
+  },
+  {
+    "id": 140,
+    "department_id": 5,
+    "name": "Fassardi"
+  },
+  {
+    "id": 141,
+    "department_id": 5,
+    "name": "Félix Pérez Cardozo"
+  },
+  {
+    "id": 142,
+    "department_id": 5,
+    "name": "Garay"
+  },
+  {
+    "id": 143,
+    "department_id": 5,
+    "name": "Itapé"
+  },
+  {
+    "id": 144,
+    "department_id": 5,
+    "name": "Iturbe"
+  },
+  {
+    "id": 145,
+    "department_id": 5,
+    "name": "Mbocayaty"
+  },
+  {
+    "id": 146,
+    "department_id": 5,
+    "name": "Natalicio Talavera"
+  },
+  {
+    "id": 147,
+    "department_id": 5,
+    "name": "Ñumí"
+  },
+  {
+    "id": 148,
+    "department_id": 5,
+    "name": "Paso Yobái"
+  },
+  {
+    "id": 149,
+    "department_id": 5,
+    "name": "San Salvador"
+  },
+  {
+    "id": 150,
+    "department_id": 5,
+    "name": "Tebicuary"
+  },
+  {
+    "id": 151,
+    "department_id": 5,
+    "name": "Troche"
+  },
+  {
+    "id": 152,
+    "department_id": 5,
+    "name": "Villarrica"
+  },
+  {
+    "id": 153,
+    "department_id": 5,
+    "name": "Yataity"
+  },
+  {
+    "id": 154,
+    "department_id": 8,
+    "name": "Alto Verá"
+  },
+  {
+    "id": 155,
+    "department_id": 8,
+    "name": "Bella Vista"
+  },
+  {
+    "id": 156,
+    "department_id": 8,
+    "name": "Cambyretá"
+  },
+  {
+    "id": 157,
+    "department_id": 8,
+    "name": "Capitán Meza"
+  },
+  {
+    "id": 158,
+    "department_id": 8,
+    "name": "Capitán Miranda"
+  },
+  {
+    "id": 159,
+    "department_id": 8,
+    "name": "Carlos Antonio López"
+  },
+  {
+    "id": 160,
+    "department_id": 8,
+    "name": "Carmen del Paraná"
+  },
+  {
+    "id": 161,
+    "department_id": 8,
+    "name": "Coronel Bogado"
+  },
+  {
+    "id": 162,
+    "department_id": 8,
+    "name": "Edelira"
+  },
+  {
+    "id": 163,
+    "department_id": 8,
+    "name": "Encarnación"
+  },
+  {
+    "id": 164,
+    "department_id": 8,
+    "name": "Fram"
+  },
+  {
+    "id": 165,
+    "department_id": 8,
+    "name": "General Artigas"
+  },
+  {
+    "id": 166,
+    "department_id": 8,
+    "name": "General Delgado"
+  },
+  {
+    "id": 167,
+    "department_id": 8,
+    "name": "Hohenau"
+  },
+  {
+    "id": 168,
+    "department_id": 8,
+    "name": "Itapúa Poty"
+  },
+  {
+    "id": 169,
+    "department_id": 8,
+    "name": "Jesús"
+  },
+  {
+    "id": 170,
+    "department_id": 8,
+    "name": "Colonia La Paz"
+  },
+  {
+    "id": 171,
+    "department_id": 8,
+    "name": "José Leandro Oviedo"
+  },
+  {
+    "id": 172,
+    "department_id": 8,
+    "name": "Mayor Otaño"
+  },
+  {
+    "id": 173,
+    "department_id": 8,
+    "name": "Natalio"
+  },
+  {
+    "id": 174,
+    "department_id": 8,
+    "name": "Nueva Alborada"
+  },
+  {
+    "id": 175,
+    "department_id": 8,
+    "name": "Obligado"
+  },
+  {
+    "id": 176,
+    "department_id": 8,
+    "name": "Pirapó"
+  },
+  {
+    "id": 177,
+    "department_id": 8,
+    "name": "San Cosme y Damián"
+  },
+  {
+    "id": 178,
+    "department_id": 8,
+    "name": "San Juan del Paraná"
+  },
+  {
+    "id": 179,
+    "department_id": 8,
+    "name": "San Pedro del Paraná"
+  },
+  {
+    "id": 180,
+    "department_id": 8,
+    "name": "San Rafael del Paraná"
+  },
+  {
+    "id": 181,
+    "department_id": 8,
+    "name": "Maria Auxiliadora"
+  },
+  {
+    "id": 182,
+    "department_id": 8,
+    "name": "Trinidad"
+  },
+  {
+    "id": 183,
+    "department_id": 8,
+    "name": "Yatytay"
+  },
+  {
+    "id": 184,
+    "department_id": 9,
+    "name": "Ayolas"
+  },
+  {
+    "id": 185,
+    "department_id": 9,
+    "name": "San Ignacio"
+  },
+  {
+    "id": 186,
+    "department_id": 9,
+    "name": "San Juan Bautista"
+  },
+  {
+    "id": 187,
+    "department_id": 9,
+    "name": "San Miguel"
+  },
+  {
+    "id": 188,
+    "department_id": 9,
+    "name": "San Patricio"
+  },
+  {
+    "id": 189,
+    "department_id": 9,
+    "name": "Santa María"
+  },
+  {
+    "id": 190,
+    "department_id": 9,
+    "name": "Santa Rosa"
+  },
+  {
+    "id": 191,
+    "department_id": 9,
+    "name": "Santiago"
+  },
+  {
+    "id": 192,
+    "department_id": 9,
+    "name": "Villa Florida"
+  },
+  {
+    "id": 193,
+    "department_id": 9,
+    "name": "Yabebyry"
+  },
+  {
+    "id": 194,
+    "department_id": 12,
+    "name": "Alberdi"
+  },
+  {
+    "id": 195,
+    "department_id": 12,
+    "name": "Cerrito"
+  },
+  {
+    "id": 196,
+    "department_id": 12,
+    "name": "Desmochados"
+  },
+  {
+    "id": 197,
+    "department_id": 12,
+    "name": "General José Eduvigis Díaz"
+  },
+  {
+    "id": 198,
+    "department_id": 12,
+    "name": "Guazú Cuá"
+  },
+  {
+    "id": 199,
+    "department_id": 12,
+    "name": "Humaitá"
+  },
+  {
+    "id": 200,
+    "department_id": 12,
+    "name": "Isla Umbú"
+  },
+  {
+    "id": 201,
+    "department_id": 12,
+    "name": "Laureles"
+  },
+  {
+    "id": 202,
+    "department_id": 12,
+    "name": "Mayor José J. Martínez"
+  },
+  {
+    "id": 203,
+    "department_id": 12,
+    "name": "Paso de Patria"
+  },
+  {
+    "id": 204,
+    "department_id": 12,
+    "name": "Pilar"
+  },
+  {
+    "id": 205,
+    "department_id": 12,
+    "name": "San Juan Bautista del Ñeembucú"
+  },
+  {
+    "id": 206,
+    "department_id": 12,
+    "name": "Tacuaras"
+  },
+  {
+    "id": 207,
+    "department_id": 12,
+    "name": "Villa Franca"
+  },
+  {
+    "id": 208,
+    "department_id": 12,
+    "name": "Villalbín"
+  },
+  {
+    "id": 209,
+    "department_id": 12,
+    "name": "Villa Oliva"
+  },
+  {
+    "id": 210,
+    "department_id": 10,
+    "name": "Acahay"
+  },
+  {
+    "id": 211,
+    "department_id": 10,
+    "name": "Caapucú"
+  },
+  {
+    "id": 212,
+    "department_id": 10,
+    "name": "Carapeguá"
+  },
+  {
+    "id": 213,
+    "department_id": 10,
+    "name": "Escobar"
+  },
+  {
+    "id": 214,
+    "department_id": 10,
+    "name": "Gral. Bernardino Caballero"
+  },
+  {
+    "id": 215,
+    "department_id": 10,
+    "name": "La Colmena"
+  },
+  {
+    "id": 216,
+    "department_id": 10,
+    "name": "María Antonia"
+  },
+  {
+    "id": 217,
+    "department_id": 10,
+    "name": "Mbuyapey"
+  },
+  {
+    "id": 218,
+    "department_id": 10,
+    "name": "Paraguarí"
+  },
+  {
+    "id": 219,
+    "department_id": 10,
+    "name": "Pirayú"
+  },
+  {
+    "id": 220,
+    "department_id": 10,
+    "name": "Quiindy"
+  },
+  {
+    "id": 221,
+    "department_id": 10,
+    "name": "Quyquyhó"
+  },
+  {
+    "id": 222,
+    "department_id": 10,
+    "name": "San Roque González de Santa Cruz"
+  },
+  {
+    "id": 223,
+    "department_id": 10,
+    "name": "Sapucai"
+  },
+  {
+    "id": 224,
+    "department_id": 10,
+    "name": "Tebicuarymí"
+  },
+  {
+    "id": 225,
+    "department_id": 10,
+    "name": "Yaguarón"
+  },
+  {
+    "id": 226,
+    "department_id": 10,
+    "name": "Ybycuí"
+  },
+  {
+    "id": 227,
+    "department_id": 10,
+    "name": "Ybytymí"
+  },
+  {
+    "id": 228,
+    "department_id": 15,
+    "name": "Benjamín Aceval"
+  },
+  {
+    "id": 229,
+    "department_id": 15,
+    "name": "Dr. José Falcón"
+  },
+  {
+    "id": 230,
+    "department_id": 15,
+    "name": "General José María Bruguez"
+  },
+  {
+    "id": 231,
+    "department_id": 15,
+    "name": "Nanawa"
+  },
+  {
+    "id": 232,
+    "department_id": 15,
+    "name": "Colonia Paratodo"
+  },
+  {
+    "id": 233,
+    "department_id": 15,
+    "name": "Pozo Colorado"
+  },
+  {
+    "id": 234,
+    "department_id": 15,
+    "name": "Puerto Pinasco"
+  },
+  {
+    "id": 235,
+    "department_id": 15,
+    "name": "Tte. Irala Fernández"
+  },
+  {
+    "id": 236,
+    "department_id": 15,
+    "name": "Esteban Martínez"
+  },
+  {
+    "id": 237,
+    "department_id": 15,
+    "name": "Villa Hayes"
+  },
+  {
+    "id": 238,
+    "department_id": 3,
+    "name": "Antequera"
+  },
+  {
+    "id": 239,
+    "department_id": 3,
+    "name": "Capiibary"
+  },
+  {
+    "id": 240,
+    "department_id": 3,
+    "name": "Choré"
+  },
+  {
+    "id": 241,
+    "department_id": 3,
+    "name": "General Elizardo Aquino"
+  },
+  {
+    "id": 242,
+    "department_id": 3,
+    "name": "General Isidoro Resquín"
+  },
+  {
+    "id": 243,
+    "department_id": 3,
+    "name": "Guayaibí"
+  },
+  {
+    "id": 244,
+    "department_id": 3,
+    "name": "Itacurubí del Rosario"
+  },
+  {
+    "id": 245,
+    "department_id": 3,
+    "name": "Liberación"
+  },
+  {
+    "id": 246,
+    "department_id": 3,
+    "name": "Lima"
+  },
+  {
+    "id": 247,
+    "department_id": 3,
+    "name": "Rio Verde"
+  },
+  {
+    "id": 248,
+    "department_id": 3,
+    "name": "Nueva Germania"
+  },
+  {
+    "id": 249,
+    "department_id": 3,
+    "name": "San Estanislao"
+  },
+  {
+    "id": 250,
+    "department_id": 3,
+    "name": "San Pablo"
+  },
+  {
+    "id": 251,
+    "department_id": 3,
+    "name": "Villa de San Pedro"
+  },
+  {
+    "id": 252,
+    "department_id": 3,
+    "name": "San Vicente Pancholo"
+  },
+  {
+    "id": 253,
+    "department_id": 3,
+    "name": "Santa Rosa del Aguaray"
+  },
+  {
+    "id": 254,
+    "department_id": 3,
+    "name": "Tacuatí"
+  },
+  {
+    "id": 255,
+    "department_id": 3,
+    "name": "Unión"
+  },
+  {
+    "id": 256,
+    "department_id": 3,
+    "name": "25 de Diciembre"
+  },
+  {
+    "id": 257,
+    "department_id": 3,
+    "name": "Villa del Rosario"
+  },
+  {
+    "id": 258,
+    "department_id": 3,
+    "name": "Yataity del Norte"
+  },
+  {
+    "id": 259,
+    "department_id": 3,
+    "name": "Yrybucuá"
+  }
+]
