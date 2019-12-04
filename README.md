@@ -16,7 +16,7 @@ $ composer du
 
 #### Data Seed
 
-This step is optional, but if you want to avoid `SQL Existing Table Error`, run:
+This step is optional, but if you want to avoid `SQL Table Already Exists Error`, run. **Do NOT run on production enviroment!**:
 
 ```bash
 $ php artisan migrate:fresh
