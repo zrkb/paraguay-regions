@@ -1,6 +1,7 @@
 {
-    "name": "imfx/paraguay-regions",
+    "name": "zrkb/paraguay-regions",
     "description": "Laravel Migration Files for Paraguay Regions",
+    "keywords": [ "laravel", "php", "paraguay", "regions", "asuncion"],
     "license": "MIT",
     "authors": [
         {
@@ -10,8 +11,8 @@
     ],
     "require": {
         "php": "^7.2",
-        "illuminate/database": "^5.7.15 | 5.8.* | ^6.0",
-        "illuminate/support": "^5.7.15 | 5.8.* | ^6.0"
+        "illuminate/database": "^5.7.15 | 5.8.* | ^6.0 | ^7.0",
+        "illuminate/support": "^5.7.15 | 5.8.* | ^6.0 | ^7.0"
     },
     "autoload": {
         "psr-4": {
@@ -24,6 +25,9 @@
                 "Paraguay\\Regions\\RegionsServiceProvider"
             ]
         }
+    },
+    "config": {
+        "sort-packages": true
     },
     "minimum-stability": "dev",
     "prefer-stable": true

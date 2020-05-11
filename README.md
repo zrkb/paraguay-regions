@@ -1,5 +1,10 @@
 # Paraguay Regions
 
+### Installation
+
+```bash
+$ composer require zrkb/paraguay-regions
+```
 
 ### Usage
 
@@ -16,14 +21,8 @@ $ composer du
 
 #### Data Seed
 
-This step is optional, but if you want to avoid `SQL Table Already Exists Error`, run. **Do NOT run on production enviroment!**:
+Run the following command:
 
 ```bash
-$ php artisan migrate:fresh
-```
-
-And last, but not least:
-
-```bash
-$ php artisan db:seed --class=RegionsSeeder
+$ php artisan db:seed --class=ParaguayRegionsSeeder
 ```
