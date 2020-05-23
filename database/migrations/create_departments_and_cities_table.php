@@ -24,6 +24,7 @@ class CreateDepartmentsAndCitiesTable extends Migration
             $table->bigIncrements('id');
             $table->bigInteger('department_id')->unsigned();
             $table->string('name');
+            $table->integer('population')->nullable();
             $table->timestamps();
 
             $table->foreign('department_id')
