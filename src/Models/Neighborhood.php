@@ -5,14 +5,14 @@ namespace Paraguay\Regions\Models;
 use Illuminate\Database\Eloquent\Model;
 use Paraguay\Regions\Traits\SortedByName;
 
-class Department extends Model
+class Neighborhood extends Model
 {
     use SortedByName;
-
+    
     protected $guarded = ['id'];
 
-    public function cities()
+    public function city()
     {
-        return $this->hasMany(City::class);
+        return $this->belongsTo(City::class);
     }
 }

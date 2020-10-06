@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreateDepartmentsAndCitiesTable extends Migration
+class CreateParaguayRegionsTables extends Migration
 {
     /**
      * Run the migrations.
@@ -30,6 +30,17 @@ class CreateDepartmentsAndCitiesTable extends Migration
             $table->foreign('department_id')
                   ->references('id')
                   ->on('departments');
+        });
+
+        Schema::create('neighborhoods', function (Blueprint $table) {
+            $table->bigIncrements('id');
+            $table->bigInteger('city_id')->unsigned();
+            $table->string('name');
+            $table->timestamps();
+
+            $table->foreign('city_id')
+                  ->references('id')
+                  ->on('cities');
         });
     }
 

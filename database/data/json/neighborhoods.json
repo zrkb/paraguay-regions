@@ -1,0 +1,2262 @@
+[
+    {
+        "id": 1,
+        "city_id": 1,
+        "name": "Banco San Miguel"
+    },
+    {
+        "id": 2,
+        "city_id": 1,
+        "name": "Bañado Cará Cará"
+    },
+    {
+        "id": 3,
+        "city_id": 1,
+        "name": "Barrio Obrero"
+    },
+    {
+        "id": 4,
+        "city_id": 1,
+        "name": "Bella Vista"
+    },
+    {
+        "id": 5,
+        "city_id": 1,
+        "name": "Botánico"
+    },
+    {
+        "id": 6,
+        "city_id": 1,
+        "name": "Cañada del Ybyray"
+    },
+    {
+        "id": 7,
+        "city_id": 1,
+        "name": "Ciudad Nueva"
+    },
+    {
+        "id": 8,
+        "city_id": 1,
+        "name": "Dr. Francia"
+    },
+    {
+        "id": 9,
+        "city_id": 1,
+        "name": "La Encarnación"
+    },
+    {
+        "id": 10,
+        "city_id": 1,
+        "name": "General Caballero"
+    },
+    {
+        "id": 11,
+        "city_id": 1,
+        "name": "General Díaz"
+    },
+    {
+        "id": 12,
+        "city_id": 1,
+        "name": "Herrera (Asunción)"
+    },
+    {
+        "id": 13,
+        "city_id": 1,
+        "name": "Barrio Hipódromo"
+    },
+    {
+        "id": 14,
+        "city_id": 1,
+        "name": "Itá Enramada"
+    },
+    {
+        "id": 15,
+        "city_id": 1,
+        "name": "Itá Pytã Punta"
+    },
+    {
+        "id": 16,
+        "city_id": 1,
+        "name": "Barrio Jara"
+    },
+    {
+        "id": 17,
+        "city_id": 1,
+        "name": "Jukyty"
+    },
+    {
+        "id": 18,
+        "city_id": 1,
+        "name": "Carlos A. López"
+    },
+    {
+        "id": 19,
+        "city_id": 1,
+        "name": "La Catedral"
+    },
+    {
+        "id": 20,
+        "city_id": 1,
+        "name": "Las Lomas"
+    },
+    {
+        "id": 21,
+        "city_id": 1,
+        "name": "Loma Pytá"
+    },
+    {
+        "id": 22,
+        "city_id": 1,
+        "name": "Los Laureles"
+    },
+    {
+        "id": 23,
+        "city_id": 1,
+        "name": "Madame Lynch"
+    },
+    {
+        "id": 24,
+        "city_id": 1,
+        "name": "Manorá"
+    },
+    {
+        "id": 25,
+        "city_id": 1,
+        "name": "Mariscal Estigarribia"
+    },
+    {
+        "id": 26,
+        "city_id": 1,
+        "name": "Mariscal López"
+    },
+    {
+        "id": 27,
+        "city_id": 1,
+        "name": "Mbocayaty"
+    },
+    {
+        "id": 28,
+        "city_id": 1,
+        "name": "Mburicaó"
+    },
+    {
+        "id": 29,
+        "city_id": 1,
+        "name": "Mburucuyá"
+    },
+    {
+        "id": 30,
+        "city_id": 1,
+        "name": "Las Mercedes"
+    },
+    {
+        "id": 31,
+        "city_id": 1,
+        "name": "Nazareth"
+    },
+    {
+        "id": 32,
+        "city_id": 1,
+        "name": "Ñu Guazú"
+    },
+    {
+        "id": 33,
+        "city_id": 1,
+        "name": "Pettirossi"
+    },
+    {
+        "id": 34,
+        "city_id": 1,
+        "name": "Pinozá"
+    },
+    {
+        "id": 35,
+        "city_id": 1,
+        "name": "Roberto L. Pettit"
+    },
+    {
+        "id": 36,
+        "city_id": 1,
+        "name": "Recoleta"
+    },
+    {
+        "id": 37,
+        "city_id": 1,
+        "name": "Republicano"
+    },
+    {
+        "id": 38,
+        "city_id": 1,
+        "name": "Ricardo Brugada"
+    },
+    {
+        "id": 39,
+        "city_id": 1,
+        "name": "Sajonia"
+    },
+    {
+        "id": 40,
+        "city_id": 1,
+        "name": "Salvador del Mundo"
+    },
+    {
+        "id": 41,
+        "city_id": 1,
+        "name": "San Antonio"
+    },
+    {
+        "id": 42,
+        "city_id": 1,
+        "name": "San Blas"
+    },
+    {
+        "id": 43,
+        "city_id": 1,
+        "name": "San Cayetano"
+    },
+    {
+        "id": 44,
+        "city_id": 1,
+        "name": "San Cristóbal"
+    },
+    {
+        "id": 45,
+        "city_id": 1,
+        "name": "San Jorge"
+    },
+    {
+        "id": 46,
+        "city_id": 1,
+        "name": "San Juan"
+    },
+    {
+        "id": 47,
+        "city_id": 1,
+        "name": "San Pablo"
+    },
+    {
+        "id": 48,
+        "city_id": 1,
+        "name": "San Roque"
+    },
+    {
+        "id": 49,
+        "city_id": 1,
+        "name": "San Vicente"
+    },
+    {
+        "id": 50,
+        "city_id": 1,
+        "name": "Santa Ana"
+    },
+    {
+        "id": 51,
+        "city_id": 1,
+        "name": "Santa Librada"
+    },
+    {
+        "id": 52,
+        "city_id": 1,
+        "name": "Santa María"
+    },
+    {
+        "id": 53,
+        "city_id": 1,
+        "name": "Santa Rosa"
+    },
+    {
+        "id": 54,
+        "city_id": 1,
+        "name": "Santísima Trinidad"
+    },
+    {
+        "id": 55,
+        "city_id": 1,
+        "name": "Santo Domingo"
+    },
+    {
+        "id": 56,
+        "city_id": 1,
+        "name": "Tablada Nueva"
+    },
+    {
+        "id": 57,
+        "city_id": 1,
+        "name": "Tacumbú"
+    },
+    {
+        "id": 58,
+        "city_id": 1,
+        "name": "Tembetary"
+    },
+    {
+        "id": 59,
+        "city_id": 1,
+        "name": "Terminal"
+    },
+    {
+        "id": 60,
+        "city_id": 1,
+        "name": "Villa Aurelia"
+    },
+    {
+        "id": 61,
+        "city_id": 1,
+        "name": "Villa Morra"
+    },
+    {
+        "id": 62,
+        "city_id": 1,
+        "name": "Virgen de Fátima"
+    },
+    {
+        "id": 63,
+        "city_id": 1,
+        "name": "Virgen de la Asunción"
+    },
+    {
+        "id": 64,
+        "city_id": 1,
+        "name": "Virgen del Huerto"
+    },
+    {
+        "id": 65,
+        "city_id": 1,
+        "name": "Vista Alegre"
+    },
+    {
+        "id": 66,
+        "city_id": 1,
+        "name": "Ycuá Satí"
+    },
+    {
+        "id": 67,
+        "city_id": 1,
+        "name": "Ytay"
+    },
+    {
+        "id": 68,
+        "city_id": 1,
+        "name": "Zeballos Cué"
+    },
+    {
+        "id": 69,
+        "city_id": 94,
+        "name": "Campo Grande"
+    },
+    {
+        "id": 70,
+        "city_id": 94,
+        "name": "Laurelty"
+    },
+    {
+        "id": 71,
+        "city_id": 94,
+        "name": "Hugua de seda"
+    },
+    {
+        "id": 72,
+        "city_id": 94,
+        "name": "Isla Bogado"
+    },
+    {
+        "id": 73,
+        "city_id": 94,
+        "name": "Cañada San Rafael"
+    },
+    {
+        "id": 74,
+        "city_id": 94,
+        "name": "Costa Sosa"
+    },
+    {
+        "id": 75,
+        "city_id": 94,
+        "name": "Ykuá Duré"
+    },
+    {
+        "id": 76,
+        "city_id": 94,
+        "name": "Maka'i"
+    },
+    {
+        "id": 77,
+        "city_id": 94,
+        "name": "Jaguareté Corá"
+    },
+    {
+        "id": 78,
+        "city_id": 94,
+        "name": "Maramburé"
+    },
+    {
+        "id": 79,
+        "city_id": 94,
+        "name": "Primer Barrio"
+    },
+    {
+        "id": 80,
+        "city_id": 94,
+        "name": "Segundo Barrio"
+    },
+    {
+        "id": 81,
+        "city_id": 94,
+        "name": "Tercer Barrio"
+    },
+    {
+        "id": 82,
+        "city_id": 94,
+        "name": "Cuarto Barrio"
+    },
+    {
+        "id": 83,
+        "city_id": 94,
+        "name": "Zárate Isla"
+    },
+    {
+        "id": 84,
+        "city_id": 94,
+        "name": "Loma Merlo"
+    },
+    {
+        "id": 85,
+        "city_id": 94,
+        "name": "Ykuá Karanda'y"
+    },
+    {
+        "id": 86,
+        "city_id": 94,
+        "name": "Y ka'a"
+    },
+    {
+        "id": 87,
+        "city_id": 94,
+        "name": "Mora Kue"
+    },
+    {
+        "id": 88,
+        "city_id": 94,
+        "name": "Cañada Garay"
+    },
+    {
+        "id": 89,
+        "city_id": 94,
+        "name": "Yukyry"
+    },
+    {
+        "id": 90,
+        "city_id": 94,
+        "name": "Itá Angu'a"
+    },
+    {
+        "id": 91,
+        "city_id": 94,
+        "name": "Marin Ka'aguy"
+    },
+    {
+        "id": 92,
+        "city_id": 94,
+        "name": "Tarumandy"
+    },
+    {
+        "id": 93,
+        "city_id": 94,
+        "name": "Itapuami 1"
+    },
+    {
+        "id": 94,
+        "city_id": 94,
+        "name": "Itapuami 2"
+    },
+    {
+        "id": 95,
+        "city_id": 94,
+        "name": "Tarumandy del Rio Salado"
+    },
+    {
+        "id": 96,
+        "city_id": 94,
+        "name": "Nueva Asunción"
+    },
+    {
+        "id": 97,
+        "city_id": 87,
+        "name": "Campo Grande"
+    },
+    {
+        "id": 98,
+        "city_id": 87,
+        "name": "Laurelty"
+    },
+    {
+        "id": 99,
+        "city_id": 87,
+        "name": "Hugua de seda"
+    },
+    {
+        "id": 100,
+        "city_id": 87,
+        "name": "Isla Bogado"
+    },
+    {
+        "id": 101,
+        "city_id": 87,
+        "name": "Cañada San Rafael"
+    },
+    {
+        "id": 102,
+        "city_id": 87,
+        "name": "Costa Sosa"
+    },
+    {
+        "id": 103,
+        "city_id": 87,
+        "name": "Ykuá Duré"
+    },
+    {
+        "id": 104,
+        "city_id": 87,
+        "name": "Maka'i"
+    },
+    {
+        "id": 105,
+        "city_id": 87,
+        "name": "Jaguareté Corá"
+    },
+    {
+        "id": 106,
+        "city_id": 87,
+        "name": "Maramburé"
+    },
+    {
+        "id": 107,
+        "city_id": 87,
+        "name": "Primer Barrio"
+    },
+    {
+        "id": 108,
+        "city_id": 87,
+        "name": "Segundo Barrio"
+    },
+    {
+        "id": 109,
+        "city_id": 87,
+        "name": "Tercer Barrio"
+    },
+    {
+        "id": 110,
+        "city_id": 87,
+        "name": "Cuarto Barrio"
+    },
+    {
+        "id": 111,
+        "city_id": 87,
+        "name": "Zárate Isla"
+    },
+    {
+        "id": 112,
+        "city_id": 87,
+        "name": "Loma Merlo"
+    },
+    {
+        "id": 113,
+        "city_id": 87,
+        "name": "Ykuá Karanda'y"
+    },
+    {
+        "id": 114,
+        "city_id": 87,
+        "name": "Y ka'a"
+    },
+    {
+        "id": 115,
+        "city_id": 87,
+        "name": "Mora Kue"
+    },
+    {
+        "id": 116,
+        "city_id": 87,
+        "name": "Cañada Garay"
+    },
+    {
+        "id": 117,
+        "city_id": 87,
+        "name": "Yukyry"
+    },
+    {
+        "id": 118,
+        "city_id": 87,
+        "name": "Itá Angu'a"
+    },
+    {
+        "id": 119,
+        "city_id": 87,
+        "name": "Marin Ka'aguy"
+    },
+    {
+        "id": 120,
+        "city_id": 87,
+        "name": "Tarumandy"
+    },
+    {
+        "id": 121,
+        "city_id": 87,
+        "name": "Itapuami 1"
+    },
+    {
+        "id": 122,
+        "city_id": 87,
+        "name": "Itapuami 2"
+    },
+    {
+        "id": 123,
+        "city_id": 87,
+        "name": "Tarumandy del Rio Salado"
+    },
+    {
+        "id": 124,
+        "city_id": 87,
+        "name": "Nueva Asunción"
+    },
+    {
+        "id": 125,
+        "city_id": 92,
+        "name": "Palomar"
+    },
+    {
+        "id": 126,
+        "city_id": 92,
+        "name": "San Rafael"
+    },
+    {
+        "id": 127,
+        "city_id": 92,
+        "name": "Santo Domingo"
+    },
+    {
+        "id": 128,
+        "city_id": 92,
+        "name": "Panambireta"
+    },
+    {
+        "id": 129,
+        "city_id": 92,
+        "name": "Pilar"
+    },
+    {
+        "id": 130,
+        "city_id": 92,
+        "name": "La Victoria"
+    },
+    {
+        "id": 131,
+        "city_id": 92,
+        "name": "Santa Lucía"
+    },
+    {
+        "id": 132,
+        "city_id": 92,
+        "name": "Santa Luisa"
+    },
+    {
+        "id": 133,
+        "city_id": 92,
+        "name": "Valle Ybate"
+    },
+    {
+        "id": 134,
+        "city_id": 92,
+        "name": "Mariscal López"
+    },
+    {
+        "id": 135,
+        "city_id": 92,
+        "name": "Felicidad"
+    },
+    {
+        "id": 136,
+        "city_id": 92,
+        "name": "Cuatro Mojones"
+    },
+    {
+        "id": 137,
+        "city_id": 92,
+        "name": "Santa Rosa I"
+    },
+    {
+        "id": 138,
+        "city_id": 92,
+        "name": "Valle Apu'a I"
+    },
+    {
+        "id": 139,
+        "city_id": 92,
+        "name": "Valle Apu'a II"
+    },
+    {
+        "id": 140,
+        "city_id": 92,
+        "name": "Villa Cerro Corá"
+    },
+    {
+        "id": 141,
+        "city_id": 92,
+        "name": "Villa Virginia"
+    },
+    {
+        "id": 142,
+        "city_id": 92,
+        "name": "Centro"
+    },
+    {
+        "id": 143,
+        "city_id": 92,
+        "name": "Santa Rosa II"
+    },
+    {
+        "id": 144,
+        "city_id": 92,
+        "name": "Kennedy"
+    },
+    {
+        "id": 145,
+        "city_id": 92,
+        "name": "Cañada San Miguel"
+    },
+    {
+        "id": 146,
+        "city_id": 92,
+        "name": "Parques del Yacht"
+    },
+    {
+        "id": 147,
+        "city_id": 92,
+        "name": "Mbachio I"
+    },
+    {
+        "id": 148,
+        "city_id": 92,
+        "name": "Mbachio II"
+    },
+    {
+        "id": 149,
+        "city_id": 92,
+        "name": "San Antonio"
+    },
+    {
+        "id": 150,
+        "city_id": 92,
+        "name": "San Roque González"
+    },
+    {
+        "id": 151,
+        "city_id": 92,
+        "name": "San Isidro"
+    },
+    {
+        "id": 152,
+        "city_id": 92,
+        "name": "Puerto Pabla"
+    },
+    {
+        "id": 153,
+        "city_id": 95,
+        "name": "Surubi'i"
+    },
+    {
+        "id": 154,
+        "city_id": 95,
+        "name": "Universo"
+    },
+    {
+        "id": 155,
+        "city_id": 95,
+        "name": "Arecayá"
+    },
+    {
+        "id": 156,
+        "city_id": 95,
+        "name": "Ka'aguy Kupe"
+    },
+    {
+        "id": 157,
+        "city_id": 95,
+        "name": "Monseñor Bogarín"
+    },
+    {
+        "id": 158,
+        "city_id": 95,
+        "name": "San Luis"
+    },
+    {
+        "id": 159,
+        "city_id": 95,
+        "name": "La Asunción"
+    },
+    {
+        "id": 160,
+        "city_id": 95,
+        "name": "San Blas"
+    },
+    {
+        "id": 161,
+        "city_id": 95,
+        "name": "Remanso"
+    },
+    {
+        "id": 162,
+        "city_id": 95,
+        "name": "María Auxiliadora"
+    },
+    {
+        "id": 163,
+        "city_id": 95,
+        "name": "Central"
+    },
+    {
+        "id": 164,
+        "city_id": 95,
+        "name": "Villa Margarita"
+    },
+    {
+        "id": 165,
+        "city_id": 95,
+        "name": "Bañado"
+    },
+    {
+        "id": 166,
+        "city_id": 95,
+        "name": "Rosa Mística"
+    },
+    {
+        "id": 167,
+        "city_id": 95,
+        "name": "Defensores del Chaco"
+    },
+    {
+        "id": 168,
+        "city_id": 95,
+        "name": "San Jorge"
+    },
+    {
+        "id": 169,
+        "city_id": 95,
+        "name": "San Ramón"
+    },
+    {
+        "id": 170,
+        "city_id": 95,
+        "name": "Caacupemí"
+    },
+    {
+        "id": 171,
+        "city_id": 99,
+        "name": "San Miguel"
+    },
+    {
+        "id": 172,
+        "city_id": 99,
+        "name": "Laurelty"
+    },
+    {
+        "id": 173,
+        "city_id": 99,
+        "name": "Santo Rey"
+    },
+    {
+        "id": 174,
+        "city_id": 99,
+        "name": "Virgen de los Remedios"
+    },
+    {
+        "id": 175,
+        "city_id": 99,
+        "name": "San Pedro - Ñu Porá"
+    },
+    {
+        "id": 176,
+        "city_id": 99,
+        "name": "San Ramón"
+    },
+    {
+        "id": 177,
+        "city_id": 99,
+        "name": "Santa Lucía"
+    },
+    {
+        "id": 178,
+        "city_id": 99,
+        "name": "Las Mercedes"
+    },
+    {
+        "id": 179,
+        "city_id": 99,
+        "name": "San José"
+    },
+    {
+        "id": 180,
+        "city_id": 99,
+        "name": "Santa María"
+    },
+    {
+        "id": 181,
+        "city_id": 99,
+        "name": "Villa Laurelty"
+    },
+    {
+        "id": 182,
+        "city_id": 99,
+        "name": "San Juan Calle'i"
+    },
+    {
+        "id": 183,
+        "city_id": 99,
+        "name": "Sagrada Familia"
+    },
+    {
+        "id": 184,
+        "city_id": 99,
+        "name": "San Francisco"
+    },
+    {
+        "id": 185,
+        "city_id": 99,
+        "name": "San Isidro"
+    },
+    {
+        "id": 186,
+        "city_id": 99,
+        "name": "Villa Amelia"
+    },
+    {
+        "id": 187,
+        "city_id": 99,
+        "name": "Villa Universitaria"
+    },
+    {
+        "id": 188,
+        "city_id": 99,
+        "name": "San Pedro"
+    },
+    {
+        "id": 189,
+        "city_id": 99,
+        "name": "San Blas"
+    },
+    {
+        "id": 190,
+        "city_id": 99,
+        "name": "Corazón de Jesús"
+    },
+    {
+        "id": 191,
+        "city_id": 99,
+        "name": "Inmaculada"
+    },
+    {
+        "id": 192,
+        "city_id": 99,
+        "name": "Barcequillo"
+    },
+    {
+        "id": 193,
+        "city_id": 99,
+        "name": "Espíritu Santo"
+    },
+    {
+        "id": 194,
+        "city_id": 99,
+        "name": "Villa del Agrónomo"
+    },
+    {
+        "id": 195,
+        "city_id": 99,
+        "name": "Santo Tomás"
+    },
+    {
+        "id": 196,
+        "city_id": 99,
+        "name": "Ntra. Sra. de la Asunción"
+    },
+    {
+        "id": 197,
+        "city_id": 99,
+        "name": "San Rafael"
+    },
+    {
+        "id": 198,
+        "city_id": 99,
+        "name": "San Roque"
+    },
+    {
+        "id": 199,
+        "city_id": 99,
+        "name": "San Antonio"
+    },
+    {
+        "id": 200,
+        "city_id": 99,
+        "name": "María Auxiliadora"
+    },
+    {
+        "id": 201,
+        "city_id": 99,
+        "name": "Fátima"
+    },
+    {
+        "id": 202,
+        "city_id": 99,
+        "name": "Santa Librada"
+    },
+    {
+        "id": 203,
+        "city_id": 99,
+        "name": "San Luis"
+    },
+    {
+        "id": 204,
+        "city_id": 99,
+        "name": "Florida"
+    },
+    {
+        "id": 205,
+        "city_id": 99,
+        "name": "La Encarnación"
+    },
+    {
+        "id": 206,
+        "city_id": 99,
+        "name": "San Felipe"
+    },
+    {
+        "id": 207,
+        "city_id": 99,
+        "name": "Miraflores"
+    },
+    {
+        "id": 208,
+        "city_id": 99,
+        "name": "Capilla del Monte"
+    },
+    {
+        "id": 209,
+        "city_id": 99,
+        "name": "Villa Industrial"
+    },
+    {
+        "id": 210,
+        "city_id": 99,
+        "name": "Los Nogales"
+    },
+    {
+        "id": 211,
+        "city_id": 99,
+        "name": "San Juan"
+    },
+    {
+        "id": 212,
+        "city_id": 99,
+        "name": "Lucerito"
+    },
+    {
+        "id": 213,
+        "city_id": 99,
+        "name": "Santa Ana"
+    },
+    {
+        "id": 214,
+        "city_id": 99,
+        "name": "Santa Cruz"
+    },
+    {
+        "id": 215,
+        "city_id": 99,
+        "name": "Lérida"
+    },
+    {
+        "id": 216,
+        "city_id": 99,
+        "name": "Tayazuapé"
+    },
+    {
+        "id": 217,
+        "city_id": 99,
+        "name": "Nueva Aurora"
+    },
+    {
+        "id": 218,
+        "city_id": 99,
+        "name": "Reducto"
+    },
+    {
+        "id": 219,
+        "city_id": 99,
+        "name": "Rincón"
+    },
+    {
+        "id": 220,
+        "city_id": 99,
+        "name": "Virgen del Rosario"
+    },
+    {
+        "id": 221,
+        "city_id": 99,
+        "name": "La Victoria"
+    },
+    {
+        "id": 222,
+        "city_id": 99,
+        "name": "Anahí"
+    },
+    {
+        "id": 223,
+        "city_id": 86,
+        "name": "Costa Salinas"
+    },
+    {
+        "id": 224,
+        "city_id": 86,
+        "name": "Santa Librada"
+    },
+    {
+        "id": 225,
+        "city_id": 86,
+        "name": "Naranjaty"
+    },
+    {
+        "id": 226,
+        "city_id": 86,
+        "name": "Costa Salinares"
+    },
+    {
+        "id": 227,
+        "city_id": 86,
+        "name": "Aratirí"
+    },
+    {
+        "id": 228,
+        "city_id": 86,
+        "name": "Puerta del Sol"
+    },
+    {
+        "id": 229,
+        "city_id": 86,
+        "name": "Roberto L. Petit"
+    },
+    {
+        "id": 230,
+        "city_id": 86,
+        "name": "Casco Urbano"
+    },
+    {
+        "id": 231,
+        "city_id": 86,
+        "name": "Candelaria"
+    },
+    {
+        "id": 232,
+        "city_id": 86,
+        "name": "San Roque"
+    },
+    {
+        "id": 233,
+        "city_id": 86,
+        "name": "Villa Militar"
+    },
+    {
+        "id": 234,
+        "city_id": 86,
+        "name": "Laurelty"
+    },
+    {
+        "id": 235,
+        "city_id": 86,
+        "name": "Campos Verdes"
+    },
+    {
+        "id": 236,
+        "city_id": 86,
+        "name": "Aldana Cañada"
+    },
+    {
+        "id": 237,
+        "city_id": 86,
+        "name": "Toledo Cañada"
+    },
+    {
+        "id": 238,
+        "city_id": 86,
+        "name": "Rojas Cañada"
+    },
+    {
+        "id": 239,
+        "city_id": 86,
+        "name": "Santa Rosa de Lima"
+    },
+    {
+        "id": 240,
+        "city_id": 86,
+        "name": "Caacupemí"
+    },
+    {
+        "id": 241,
+        "city_id": 86,
+        "name": "San Lorenzo"
+    },
+    {
+        "id": 242,
+        "city_id": 86,
+        "name": "Loma Barrero"
+    },
+    {
+        "id": 243,
+        "city_id": 86,
+        "name": "Yataity"
+    },
+    {
+        "id": 244,
+        "city_id": 86,
+        "name": "San Miguel"
+    },
+    {
+        "id": 245,
+        "city_id": 86,
+        "name": "Santo Domingo"
+    },
+    {
+        "id": 246,
+        "city_id": 86,
+        "name": "San Jorge"
+    },
+    {
+        "id": 247,
+        "city_id": 86,
+        "name": "Loma Clavel"
+    },
+    {
+        "id": 248,
+        "city_id": 86,
+        "name": "Torremolinos"
+    },
+    {
+        "id": 249,
+        "city_id": 86,
+        "name": "Cerrito"
+    },
+    {
+        "id": 250,
+        "city_id": 86,
+        "name": "Santísima Cruz"
+    },
+    {
+        "id": 251,
+        "city_id": 86,
+        "name": "Santa Rita"
+    },
+    {
+        "id": 252,
+        "city_id": 86,
+        "name": "Virgen del Pilar"
+    },
+    {
+        "id": 253,
+        "city_id": 86,
+        "name": "Retiro"
+    },
+    {
+        "id": 254,
+        "city_id": 86,
+        "name": "Posta Ybycuá"
+    },
+    {
+        "id": 255,
+        "city_id": 86,
+        "name": "Kennedy"
+    },
+    {
+        "id": 256,
+        "city_id": 86,
+        "name": "Ybyraró"
+    },
+    {
+        "id": 257,
+        "city_id": 86,
+        "name": "Urugua'y"
+    },
+    {
+        "id": 258,
+        "city_id": 86,
+        "name": "San Wenceslao"
+    },
+    {
+        "id": 259,
+        "city_id": 96,
+        "name": "Villa Anita"
+    },
+    {
+        "id": 260,
+        "city_id": 96,
+        "name": "Mbokajaty"
+    },
+    {
+        "id": 261,
+        "city_id": 96,
+        "name": "Salinas"
+    },
+    {
+        "id": 262,
+        "city_id": 96,
+        "name": "Centro"
+    },
+    {
+        "id": 263,
+        "city_id": 96,
+        "name": "Vista Alegre"
+    },
+    {
+        "id": 264,
+        "city_id": 96,
+        "name": "3 de mayo"
+    },
+    {
+        "id": 265,
+        "city_id": 96,
+        "name": "Pa'i Ñu"
+    },
+    {
+        "id": 266,
+        "city_id": 96,
+        "name": "Rincón"
+    },
+    {
+        "id": 267,
+        "city_id": 96,
+        "name": "Los Naranjos"
+    },
+    {
+        "id": 268,
+        "city_id": 96,
+        "name": "Caaguazú"
+    },
+    {
+        "id": 269,
+        "city_id": 96,
+        "name": "Cañadita"
+    },
+    {
+        "id": 270,
+        "city_id": 96,
+        "name": "San Carlos"
+    },
+    {
+        "id": 271,
+        "city_id": 96,
+        "name": "San Miguel"
+    },
+    {
+        "id": 272,
+        "city_id": 96,
+        "name": "Cerrito"
+    },
+    {
+        "id": 273,
+        "city_id": 93,
+        "name": "Isla San Francisco"
+    },
+    {
+        "id": 274,
+        "city_id": 93,
+        "name": "Piquete Cue"
+    },
+    {
+        "id": 275,
+        "city_id": 93,
+        "name": "El Peñón"
+    },
+    {
+        "id": 276,
+        "city_id": 93,
+        "name": "Rincón del Peñón Oeste"
+    },
+    {
+        "id": 277,
+        "city_id": 93,
+        "name": "Rincón del Peñón Este"
+    },
+    {
+        "id": 278,
+        "city_id": 93,
+        "name": "Santa Lucía"
+    },
+    {
+        "id": 279,
+        "city_id": 93,
+        "name": "Costa Azul"
+    },
+    {
+        "id": 280,
+        "city_id": 93,
+        "name": "San Marcos"
+    },
+    {
+        "id": 281,
+        "city_id": 93,
+        "name": "Pilar del Norte"
+    },
+    {
+        "id": 282,
+        "city_id": 93,
+        "name": "Centro"
+    },
+    {
+        "id": 283,
+        "city_id": 93,
+        "name": "Paso Correo"
+    },
+    {
+        "id": 284,
+        "city_id": 93,
+        "name": "Salado"
+    },
+    {
+        "id": 285,
+        "city_id": 93,
+        "name": "Montaña Alta"
+    },
+    {
+        "id": 286,
+        "city_id": 93,
+        "name": "Mbayué"
+    },
+    {
+        "id": 287,
+        "city_id": 93,
+        "name": "Aguapey"
+    },
+    {
+        "id": 288,
+        "city_id": 93,
+        "name": "Isla Aranda"
+    },
+    {
+        "id": 289,
+        "city_id": 93,
+        "name": "Juan de Salazar"
+    },
+    {
+        "id": 290,
+        "city_id": 93,
+        "name": "Isla Aveiro"
+    },
+    {
+        "id": 291,
+        "city_id": 6,
+        "name": "Acaray"
+    },
+    {
+        "id": 292,
+        "city_id": 6,
+        "name": "Jardín del Este"
+    },
+    {
+        "id": 293,
+        "city_id": 6,
+        "name": "San Juan"
+    },
+    {
+        "id": 294,
+        "city_id": 6,
+        "name": "Don Bosco"
+    },
+    {
+        "id": 295,
+        "city_id": 6,
+        "name": "Carolina"
+    },
+    {
+        "id": 296,
+        "city_id": 6,
+        "name": "La Blanca"
+    },
+    {
+        "id": 297,
+        "city_id": 6,
+        "name": "Che La Reina"
+    },
+    {
+        "id": 298,
+        "city_id": 6,
+        "name": "Pablo Rojas"
+    },
+    {
+        "id": 299,
+        "city_id": 6,
+        "name": "San Blas"
+    },
+    {
+        "id": 300,
+        "city_id": 6,
+        "name": "Microcentro"
+    },
+    {
+        "id": 301,
+        "city_id": 6,
+        "name": "Juan Emilio O'Leary"
+    },
+    {
+        "id": 302,
+        "city_id": 6,
+        "name": "Área 2"
+    },
+    {
+        "id": 303,
+        "city_id": 6,
+        "name": "Remansito"
+    },
+    {
+        "id": 304,
+        "city_id": 6,
+        "name": "Bernardino Caballero"
+    },
+    {
+        "id": 305,
+        "city_id": 6,
+        "name": "Área 3"
+    },
+    {
+        "id": 306,
+        "city_id": 6,
+        "name": "Área 4"
+    },
+    {
+        "id": 307,
+        "city_id": 6,
+        "name": "Boquerón"
+    },
+    {
+        "id": 308,
+        "city_id": 6,
+        "name": "Área 1"
+    },
+    {
+        "id": 309,
+        "city_id": 6,
+        "name": "Área 8"
+    },
+    {
+        "id": 310,
+        "city_id": 6,
+        "name": "San Lucas"
+    },
+    {
+        "id": 311,
+        "city_id": 6,
+        "name": "Santa Ana"
+    },
+    {
+        "id": 312,
+        "city_id": 6,
+        "name": "23 de octubre"
+    },
+    {
+        "id": 313,
+        "city_id": 6,
+        "name": "San Alfredo"
+    },
+    {
+        "id": 314,
+        "city_id": 6,
+        "name": "San José"
+    },
+    {
+        "id": 315,
+        "city_id": 6,
+        "name": "San Isidro"
+    },
+    {
+        "id": 316,
+        "city_id": 6,
+        "name": "Villa Fanny"
+    },
+    {
+        "id": 317,
+        "city_id": 6,
+        "name": "Ciudad Nueva"
+    },
+    {
+        "id": 318,
+        "city_id": 6,
+        "name": "Jesuitas"
+    },
+    {
+        "id": 319,
+        "city_id": 6,
+        "name": "José Félix Bogado"
+    },
+    {
+        "id": 320,
+        "city_id": 6,
+        "name": "Monday"
+    },
+    {
+        "id": 321,
+        "city_id": 10,
+        "name": "Paraná Country Club"
+    },
+    {
+        "id": 322,
+        "city_id": 10,
+        "name": "Itaipú"
+    },
+    {
+        "id": 323,
+        "city_id": 10,
+        "name": "San Francisco"
+    },
+    {
+        "id": 324,
+        "city_id": 10,
+        "name": "San Miguel"
+    },
+    {
+        "id": 325,
+        "city_id": 10,
+        "name": "Caacupemí"
+    },
+    {
+        "id": 326,
+        "city_id": 10,
+        "name": "Aurora"
+    },
+    {
+        "id": 327,
+        "city_id": 10,
+        "name": "San Lorenzo"
+    },
+    {
+        "id": 328,
+        "city_id": 10,
+        "name": "Bella Vista"
+    },
+    {
+        "id": 329,
+        "city_id": 10,
+        "name": "San Pablo"
+    },
+    {
+        "id": 330,
+        "city_id": 10,
+        "name": "Santo Domingo"
+    },
+    {
+        "id": 331,
+        "city_id": 10,
+        "name": "Área 6"
+    },
+    {
+        "id": 332,
+        "city_id": 10,
+        "name": "San Antonio"
+    },
+    {
+        "id": 333,
+        "city_id": 10,
+        "name": "Ntra. Sra. de la Asunción"
+    },
+    {
+        "id": 334,
+        "city_id": 10,
+        "name": "Fátima"
+    },
+    {
+        "id": 335,
+        "city_id": 10,
+        "name": "San Carlos"
+    },
+    {
+        "id": 336,
+        "city_id": 10,
+        "name": "San Ramón"
+    },
+    {
+        "id": 337,
+        "city_id": 10,
+        "name": "Niño Jesús"
+    },
+    {
+        "id": 338,
+        "city_id": 10,
+        "name": "San José"
+    },
+    {
+        "id": 339,
+        "city_id": 10,
+        "name": "Mariscal López"
+    },
+    {
+        "id": 340,
+        "city_id": 10,
+        "name": "Nueva Esperanza"
+    },
+    {
+        "id": 341,
+        "city_id": 10,
+        "name": "María Magdalena"
+    },
+    {
+        "id": 342,
+        "city_id": 10,
+        "name": "Villa Deportiva"
+    },
+    {
+        "id": 343,
+        "city_id": 10,
+        "name": "Trigal 3"
+    },
+    {
+        "id": 344,
+        "city_id": 10,
+        "name": "Tatí Yupí"
+    },
+    {
+        "id": 345,
+        "city_id": 10,
+        "name": "Santa Elena"
+    },
+    {
+        "id": 346,
+        "city_id": 10,
+        "name": "Santa Rosa"
+    },
+    {
+        "id": 347,
+        "city_id": 10,
+        "name": "Tacurú Pucú"
+    },
+    {
+        "id": 348,
+        "city_id": 10,
+        "name": "Orlando Kue"
+    },
+    {
+        "id": 349,
+        "city_id": 10,
+        "name": "Mandu'ará"
+    },
+    {
+        "id": 350,
+        "city_id": 10,
+        "name": "San Francisco"
+    },
+    {
+        "id": 351,
+        "city_id": 10,
+        "name": "Félix de Azara"
+    },
+    {
+        "id": 352,
+        "city_id": 10,
+        "name": "San Miguel"
+    },
+    {
+        "id": 353,
+        "city_id": 10,
+        "name": "San Roque"
+    },
+    {
+        "id": 354,
+        "city_id": 10,
+        "name": "Paso Itá"
+    },
+    {
+        "id": 355,
+        "city_id": 10,
+        "name": "Colonia Acaray"
+    },
+    {
+        "id": 356,
+        "city_id": 10,
+        "name": "Santa Mónica"
+    },
+    {
+        "id": 357,
+        "city_id": 10,
+        "name": "Bella Vista del Aguaraymi"
+    },
+    {
+        "id": 358,
+        "city_id": 10,
+        "name": "Colonia Toryvete"
+    },
+    {
+        "id": 359,
+        "city_id": 10,
+        "name": "Colonia Laura"
+    },
+    {
+        "id": 360,
+        "city_id": 10,
+        "name": "Independiente"
+    },
+    {
+        "id": 361,
+        "city_id": 10,
+        "name": "Acaraymí"
+    },
+    {
+        "id": 362,
+        "city_id": 10,
+        "name": "Maracamoa"
+    },
+    {
+        "id": 363,
+        "city_id": 10,
+        "name": "Nueva Fortuna"
+    },
+    {
+        "id": 364,
+        "city_id": 10,
+        "name": "Colonia La Fortuna"
+    },
+    {
+        "id": 365,
+        "city_id": 10,
+        "name": "La Fortuna Unida"
+    },
+    {
+        "id": 366,
+        "city_id": 10,
+        "name": "Colonia Nueva Esperanza"
+    },
+    {
+        "id": 367,
+        "city_id": 163,
+        "name": "Chaipé"
+    },
+    {
+        "id": 368,
+        "city_id": 163,
+        "name": "San Pedro"
+    },
+    {
+        "id": 369,
+        "city_id": 163,
+        "name": "Curupayty"
+    },
+    {
+        "id": 370,
+        "city_id": 163,
+        "name": "San Antonio"
+    },
+    {
+        "id": 371,
+        "city_id": 163,
+        "name": "Ka'aguy Rory"
+    },
+    {
+        "id": 372,
+        "city_id": 163,
+        "name": "Quiteria"
+    },
+    {
+        "id": 373,
+        "city_id": 163,
+        "name": "Nueva Esperanza"
+    },
+    {
+        "id": 374,
+        "city_id": 163,
+        "name": "María Auxiliadora"
+    },
+    {
+        "id": 375,
+        "city_id": 163,
+        "name": "Kennedy"
+    },
+    {
+        "id": 376,
+        "city_id": 163,
+        "name": "Mbói Ka'e"
+    },
+    {
+        "id": 377,
+        "city_id": 163,
+        "name": "Santa Rosa"
+    },
+    {
+        "id": 378,
+        "city_id": 163,
+        "name": "San Blas"
+    },
+    {
+        "id": 379,
+        "city_id": 163,
+        "name": "Padre Bolik"
+    },
+    {
+        "id": 380,
+        "city_id": 163,
+        "name": "Bernardino Caballero"
+    },
+    {
+        "id": 381,
+        "city_id": 163,
+        "name": "La Paz"
+    },
+    {
+        "id": 382,
+        "city_id": 163,
+        "name": "Villa Cándida"
+    },
+    {
+        "id": 383,
+        "city_id": 163,
+        "name": "Boquerón"
+    },
+    {
+        "id": 384,
+        "city_id": 163,
+        "name": "Centro"
+    },
+    {
+        "id": 385,
+        "city_id": 163,
+        "name": "Carlos Antonio López"
+    },
+    {
+        "id": 386,
+        "city_id": 163,
+        "name": "Inmaculada Concepción"
+    },
+    {
+        "id": 387,
+        "city_id": 163,
+        "name": "Zona Alta"
+    },
+    {
+        "id": 388,
+        "city_id": 163,
+        "name": "Juan León Mallorquín"
+    },
+    {
+        "id": 389,
+        "city_id": 163,
+        "name": "Catedral"
+    },
+    {
+        "id": 390,
+        "city_id": 163,
+        "name": "La Victoria"
+    },
+    {
+        "id": 391,
+        "city_id": 163,
+        "name": "Poti'y"
+    },
+    {
+        "id": 392,
+        "city_id": 163,
+        "name": "Obrero"
+    },
+    {
+        "id": 393,
+        "city_id": 163,
+        "name": "Ciudad Nueva"
+    },
+    {
+        "id": 394,
+        "city_id": 163,
+        "name": "San Roque González"
+    },
+    {
+        "id": 395,
+        "city_id": 163,
+        "name": "Buena Vista"
+    },
+    {
+        "id": 396,
+        "city_id": 163,
+        "name": "Pacu Kua"
+    },
+    {
+        "id": 397,
+        "city_id": 163,
+        "name": "Sagrada Familia"
+    },
+    {
+        "id": 398,
+        "city_id": 163,
+        "name": "Fátima"
+    },
+    {
+        "id": 399,
+        "city_id": 163,
+        "name": "San Isidro"
+    },
+    {
+        "id": 400,
+        "city_id": 163,
+        "name": "Santa María Santillán"
+    },
+    {
+        "id": 401,
+        "city_id": 163,
+        "name": "Itá Angu'a"
+    },
+    {
+        "id": 402,
+        "city_id": 163,
+        "name": "Nueva Ucrania"
+    },
+    {
+        "id": 403,
+        "city_id": 163,
+        "name": "4 Potrero"
+    },
+    {
+        "id": 404,
+        "city_id": 163,
+        "name": "Cerrito"
+    },
+    {
+        "id": 405,
+        "city_id": 163,
+        "name": "Santa Elena"
+    },
+    {
+        "id": 406,
+        "city_id": 163,
+        "name": "San José Obrero"
+    },
+    {
+        "id": 407,
+        "city_id": 163,
+        "name": "Urú Sapucái"
+    },
+    {
+        "id": 408,
+        "city_id": 163,
+        "name": "San Isidro Sapucái"
+    },
+    {
+        "id": 409,
+        "city_id": 163,
+        "name": "San Luis"
+    },
+    {
+        "id": 410,
+        "city_id": 163,
+        "name": "Santo Domingo"
+    },
+    {
+        "id": 411,
+        "city_id": 163,
+        "name": "Itá Paso"
+    },
+    {
+        "id": 412,
+        "city_id": 163,
+        "name": "El Paraíso"
+    },
+    {
+        "id": 413,
+        "city_id": 163,
+        "name": "Santa Cruz"
+    },
+    {
+        "id": 414,
+        "city_id": 163,
+        "name": "Los Arrabales"
+    },
+    {
+        "id": 415,
+        "city_id": 163,
+        "name": "8 de diciembre"
+    },
+    {
+        "id": 416,
+        "city_id": 163,
+        "name": "San Rafael"
+    },
+    {
+        "id": 417,
+        "city_id": 152,
+        "name": "Tuyutimí"
+    },
+    {
+        "id": 418,
+        "city_id": 152,
+        "name": "Lomas Valentinas"
+    },
+    {
+        "id": 419,
+        "city_id": 152,
+        "name": "Urbano"
+    },
+    {
+        "id": 420,
+        "city_id": 152,
+        "name": "Estación"
+    },
+    {
+        "id": 421,
+        "city_id": 152,
+        "name": "Santa Librada"
+    },
+    {
+        "id": 422,
+        "city_id": 152,
+        "name": "Cristo Rey"
+    },
+    {
+        "id": 423,
+        "city_id": 152,
+        "name": "Centro"
+    },
+    {
+        "id": 424,
+        "city_id": 152,
+        "name": "Salesiano"
+    },
+    {
+        "id": 425,
+        "city_id": 152,
+        "name": "Santa Lucía"
+    },
+    {
+        "id": 426,
+        "city_id": 152,
+        "name": "Curuzú Francisco"
+    },
+    {
+        "id": 427,
+        "city_id": 152,
+        "name": "San Blas"
+    },
+    {
+        "id": 428,
+        "city_id": 152,
+        "name": "Yvyrá Rovi"
+    },
+    {
+        "id": 429,
+        "city_id": 152,
+        "name": "San Miguel"
+    },
+    {
+        "id": 430,
+        "city_id": 152,
+        "name": "Yvaroty"
+    },
+    {
+        "id": 431,
+        "city_id": 152,
+        "name": "Caroveni"
+    },
+    {
+        "id": 432,
+        "city_id": 152,
+        "name": "Costa Espinillo"
+    },
+    {
+        "id": 433,
+        "city_id": 152,
+        "name": "Potrero Báez"
+    },
+    {
+        "id": 434,
+        "city_id": 152,
+        "name": "Potrero Isla"
+    },
+    {
+        "id": 435,
+        "city_id": 152,
+        "name": "Tuyutí Guazu"
+    },
+    {
+        "id": 436,
+        "city_id": 152,
+        "name": "Rosado"
+    },
+    {
+        "id": 437,
+        "city_id": 152,
+        "name": "Loma San Francisco"
+    },
+    {
+        "id": 438,
+        "city_id": 152,
+        "name": "Cañada San Juan"
+    },
+    {
+        "id": 439,
+        "city_id": 152,
+        "name": "Lemos"
+    },
+    {
+        "id": 440,
+        "city_id": 152,
+        "name": "Itá Yvú"
+    },
+    {
+        "id": 441,
+        "city_id": 152,
+        "name": "Punta Kupé"
+    },
+    {
+        "id": 442,
+        "city_id": 152,
+        "name": "14 de mayo"
+    },
+    {
+        "id": 443,
+        "city_id": 152,
+        "name": "Ytororó"
+    },
+    {
+        "id": 444,
+        "city_id": 152,
+        "name": "Doña Juana"
+    },
+    {
+        "id": 445,
+        "city_id": 152,
+        "name": "Santa Rosa"
+    },
+    {
+        "id": 446,
+        "city_id": 152,
+        "name": "Cañada Tapé Ka'aguy"
+    },
+    {
+        "id": 447,
+        "city_id": 152,
+        "name": "Cañadamí"
+    },
+    {
+        "id": 448,
+        "city_id": 152,
+        "name": "Potrero San Francisco"
+    },
+    {
+        "id": 449,
+        "city_id": 152,
+        "name": "Rincón"
+    },
+    {
+        "id": 450,
+        "city_id": 152,
+        "name": "Potrerito"
+    },
+    {
+        "id": 451,
+        "city_id": 152,
+        "name": "Mbopi Kua"
+    },
+    {
+        "id": 452,
+        "city_id": 152,
+        "name": "Pisadera"
+    }
+]
