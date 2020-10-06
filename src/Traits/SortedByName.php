@@ -2,6 +2,8 @@
 
 namespace Paraguay\Regions\Traits;
 
+use Illuminate\Database\Eloquent\Builder;
+
 trait SortedByName
 {
     /**

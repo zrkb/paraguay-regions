@@ -19,6 +19,12 @@ Then:
 $ composer du
 ```
 
+#### Migration
+
+```bash
+$ php artisan migrate
+```
+
 #### Data Seed
 
 Run the following command:
