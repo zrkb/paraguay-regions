@@ -24,5 +24,5 @@ $ composer du
 Run the following command:
 
 ```bash
-$ php artisan db:seed --class=ParaguayRegionsSeeder
+$ php artisan paraguay-regions:seed
 ```
