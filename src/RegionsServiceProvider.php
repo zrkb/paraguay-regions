@@ -21,7 +21,11 @@ class RegionsServiceProvider extends ServiceProvider
 
     public function publishResources()
     {
-        if (! class_exists('CreateParaguayRegionsTables')) {
+        if (method_exists($this, 'publishesMigrations')) {
+            $this->publishesMigrations([
+                __DIR__.'/../database/migrations' => database_path('migrations'),
+            ], 'paraguay-regions-migrations');
+        } elseif (! class_exists('CreateParaguayRegionsTables')) {
             $timestamp = date('Y_m_d_His', time());
 
             $this->publishes([
